@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+}
+#reg_card{
+    background-color: rgb(243, 17, 17);
+}
+/* #card_body{
+    background-color: rgb(238, 52, 52);
+} */
+
+#text{
+    color: rgb(158, 5, 5);
+}
+#head_text{
+    color: rgb(145, 14, 14);
+    text-shadow: 5px red;
+}
